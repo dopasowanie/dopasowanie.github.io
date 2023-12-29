@@ -755,8 +755,8 @@ a {
   background-image: url("../../../assets/images/mbr-1920x1147.jpg");
 }
 .cid-tZPOztJ6AG .mbr-overlay {
-  background-color: #ffa600;
-  opacity: 0;
+  background-color: #f92c50;
+  opacity: 0.3;
 }
 .cid-tZPOztJ6AG .content-wrap {
   padding: 5rem 1rem;
@@ -794,7 +794,7 @@ a {
 }
 .cid-tZPOztJ6AG .mbr-section-title {
   text-align: center;
-  color: #ffffff;
+  color: #f92c50;
 }
 .cid-tZPOztJ6AG .mbr-text,
 .cid-tZPOztJ6AG .mbr-section-btn {
